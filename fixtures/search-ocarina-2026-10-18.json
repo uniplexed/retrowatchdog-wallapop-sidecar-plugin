@@ -1,0 +1,88 @@
+{
+  "data": {
+    "section": {
+      "payload": {
+        "items": [
+          {
+            "id": "nz08eqx81d6o",
+            "title": "The Legend of Zelda: Ocarina of Time (N64)",
+            "price": {
+              "amount": 49.9,
+              "currency": "EUR"
+            },
+            "web_slug": "the-legend-of-zelda-ocarina-of-time-n64-1304712899",
+            "reserved": {
+              "flag": false
+            },
+            "category_id": 24200
+          },
+          {
+            "id": "0j28pyr5rnjy",
+            "title": "The Legend of Zelda: Ocarina of Time 3D",
+            "price": {
+              "amount": 50.0,
+              "currency": "EUR"
+            },
+            "web_slug": "the-legend-of-zelda-ocarina-of-time-3d-1314549583",
+            "reserved": {
+              "flag": false
+            },
+            "category_id": 24200
+          },
+          {
+            "id": "v6gp940py56e",
+            "title": "The Legend of Zelda: Ocarina of Time 3D (3DS)",
+            "price": {
+              "amount": 30.0,
+              "currency": "EUR"
+            },
+            "web_slug": "the-legend-of-zelda-ocarina-of-time-3d-3ds-1314514264",
+            "reserved": {
+              "flag": false
+            },
+            "category_id": 24200
+          },
+          {
+            "id": "mzn3ygqymkjn",
+            "title": "Ocarina of Time (Switch 2) FOIL y piedras",
+            "price": {
+              "amount": 180.0,
+              "currency": "EUR"
+            },
+            "web_slug": "ocarina-of-time-switch-2-foil-y-piedras-1314384497",
+            "reserved": {
+              "flag": false
+            },
+            "category_id": 24200
+          },
+          {
+            "id": "3zlmq4ognpjx",
+            "title": "The Legend of Zelda: Ocarina of Time 3D",
+            "price": {
+              "amount": 35.0,
+              "currency": "EUR"
+            },
+            "web_slug": "the-legend-of-zelda-ocarina-of-time-3d-1314484069",
+            "reserved": {
+              "flag": false
+            },
+            "category_id": 24200
+          },
+          {
+            "id": "qjwrkyyo3w6o",
+            "title": "The Legend of Zelda: Ocarina of Time (N64)",
+            "price": {
+              "amount": 90.0,
+              "currency": "EUR"
+            },
+            "web_slug": "the-legend-of-zelda-ocarina-of-time-n64-1314536153",
+            "reserved": {
+              "flag": false
+            },
+            "category_id": 24200
+          }
+        ]
+      }
+    }
+  }
+}
